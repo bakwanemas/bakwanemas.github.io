@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bakwanemas.github.io/sitemap.xml
